@@ -76,7 +76,7 @@ body {
 .hero {
   max-width: 100%;
   margin: 0 auto;
-  background: url("/images/find-an-agent-hero.jpg");
+  background: url("images/find-an-agent-hero.jpg");
   background-size: cover;
   color: white;
 }
